@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Antonio 👋
 
-<!--
-**MR-ant1/MR-ant1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Antonio Rodrigo, a Full Stack Web Developer. Welcome to my GitHub, where you can explore my journey and discover the practical solutions I've created!
 
-Here are some ideas to get you started:
+:mailbox: Reach me out!
+[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-rodrigo-camacho/) [![Mail Badge](https://img.shields.io/badge/-GMAIL-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:antoniorc7@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I currently Do
+
+- 🔭 I’m currently improving my React skills by adding new features to my last recent proyect "SpainNBass"
+- 🌱 I’m currently learning the Next.js framework to solidify my skills as a full-stack developer and explore new technologies.
+💻 Most used line of code git commit -m "Initial Commit"
+- 📫 How to reach me: antoniorc7@gmail.com
+- ⚡ Fun fact: I'm a big fanboy of "The Legend of Zelda" Saga and "Metal Gear Solid" Saga too. I love djing as my main hobby
+
