@@ -9,10 +9,14 @@ I'm Antonio Rodrigo, a Full Stack Web Developer. Welcome to my GitHub, where you
 ## What I currently Do
 
 - 🔭 I’m currently improving my React skills by adding new features to my last recent proyect "SpainNBass"
-- 🌱 I’m currently learning the Next.js framework to solidify my skills as a full stack developer and explore new technologies.
+- 🌱 I’m also learning about Angular in order to rewrite my SpainNBass proyect code with this framework and improve my skills.
 - 💻 Most used line of code git commit -m "Initial Commit"
 - 📫 How to reach me: antoniorc7@gmail.com
 - ⚡ Fun fact: I'm a big fanboy of "The Legend of Zelda" Saga and "Metal Gear Solid" Saga too. I love djing too!
+
+## Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-Ant1&layout=donut)](https://github.com/anuraghazra/github-readme-stats) ![MR-Ant1's GitHub stats](https://github-readme-stats.vercel.app/api?username=MR-Ant1&rank_icon=github&show=prs_merged)
 
 ### Front-End
 
