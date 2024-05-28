@@ -17,10 +17,26 @@ I'm Antonio Rodrigo, a Full Stack Web Developer. Welcome to my GitHub, where you
 
 ### Front-End
 
-![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F) ![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc) ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=E34F26) ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=1572B6)![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB) ![React-Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&labelColor=black&logo=redux&logoColor=593D88) ![Vite Badge](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&labelColor=black&logo=vite&logoColor=FFD62E)
+![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F) ![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc) ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=E34F26) ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=1572B6) ![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB) ![React-Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&labelColor=black&logo=redux&logoColor=593D88) ![Vite Badge](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&labelColor=black&logo=vite&logoColor=FFD62E) ![Static Badge](https://img.shields.io/badge/Bootstrap-%23883FF3?style=for-the-badge&logo=Bootstrap&logoColor=%23883FF3&labelColor=black)
+
+
 
 ### Back-End
 
 ![Mysql Badge](https://img.shields.io/badge/mysql-3E6E93?style=for-the-badge&logo=mysql&logoColor=white) ![PHP Badge](https://img.shields.io/badge/php-7A86B8?style=for-the-badge&logo=php&logoColor=black) ![LARAVEL Badge](https://img.shields.io/badge/laravel-F13C2F?style=for-the-badge&logo=laravel&logoColor=white)  ![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B)  ![JWT Badge](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A) ![Expressjs Badge](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 
+<img src="https://img.freepik.com/free-vector/programmer-concept-illustration_114360-2923.jpg" min-width="330px" max-width="330px" width="330px" align="right" alt="Programmer illustration">
+
+### Testing
+
+![Jest Badge](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&labelColor=black&logo=jest&logoColor=C21325) ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=FF6C37)
+
+### For optimal project development and clean code
+
+![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&labelColor=black&logo=git&logoColor=E44C30) ![ES Lint Badge](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&labelColor=black&logo=eslint&logoColor=3A33D1) ![NPM Badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&labelColor=black&logo=npm&logoColor=CB3837)
+![DOCKER Badge](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Design
+![Canva Badge](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&labelColor=black&logo=canva&logoColor=#00C4CC)
+ ![GIMP Badge](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&labelColor=black&logo=gimp&logoColor=5C5543) 
