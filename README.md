@@ -4,8 +4,9 @@ I'm Antonio Rodrigo, a Full Stack Web Developer. Welcome to my GitHub, where you
 
 :mailbox: Reach me out!
 
-[m![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-rodrigo-camacho/) [![Mail Badge](https://img.shields.io/badge/-GMAIL-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:antoniorc7@gmail.com)
-[![PorTfolio Badge](https://img.shields.io/badge/portfolio-blue?style=for-the-badge&logo=HTML)](https://portfolioarc.my.canva.site)
+[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-rodrigo-camacho/) [![Mail Badge](https://img.shields.io/badge/-GMAIL-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:antoniorc7@gmail.com)
+
+[![Portfolio Badge](https://img.shields.io/badge/portfolio-blue?style=for-the-badge&logo=HTML)](https://portfolioarc.my.canva.site)
 
 
 ## What I currently Do
